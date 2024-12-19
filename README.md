@@ -5,7 +5,7 @@
 <a href="https://www.github.com/tmsakil19" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tmsakil19?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
 
-- 🌍  I'm based in Dhaka, Bangladesh
+- 🌍  I'm based in Dhaka, Bangladesh 
 
 - 🔭 I’m currently working on [Talent Haven](https://talent-haven.vercel.app/)
 
